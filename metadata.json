@@ -1,0 +1,6 @@
+{
+  "name": "Daily Kharcha",
+  "description": "Smart, simple personal finance, expense tracker, and Udhaar ledger starting from zero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
